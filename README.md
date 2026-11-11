@@ -9,6 +9,8 @@
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)](https://docs.docker.com/compose/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+> 👥 **Team project** built by [Inaamallah](https://github.com/Inaamallah) and [Syed Haseeb Aamir](https://github.com/SyedHaseebAamir). Original repo: [Inaamallah/Deep-Fake-Detector](https://github.com/Inaamallah/Deep-Fake-Detector).
+
 ---
 
 ## 📋 Table of Contents
